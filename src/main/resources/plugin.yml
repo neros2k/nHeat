@@ -1,0 +1,5 @@
+name: nHeat
+version: '${project.version}'
+main: n2k_.nheat.nHeat
+api-version: 1.17
+authors: [ n2k_ ]
